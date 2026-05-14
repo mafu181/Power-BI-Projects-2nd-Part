@@ -26,7 +26,7 @@ The dashboards were designed to transform raw datasets into meaningful insights 
 * Identified trends in Netflix content additions over time
 * Analyzed the most common content ratings across the platform
 * Highlighted the top-performing genres within Netflix content
-* Compared regional availability of content across different countries
+* Compared the regional availability of content across different countries
 
 ## Dashboard 2 – Single Title View
 ### Dashboard Features
@@ -44,10 +44,10 @@ The dashboards were designed to transform raw datasets into meaningful insights 
 * Built interactive filters for content exploration and reporting
 ## Dashboard Screenshots
 ### Netflix Content Overview Dashboard
-
+https://github.com/mafu181/Power-BI-Projects-2nd-Part/blob/main/Netflix_0verview.png
 This dashboard visualizes Netflix content trends, ratings, genres, and regional content distribution.
 ### Netflix Single Title View Dashboard
-
+https://github.com/mafu181/Power-BI-Projects-2nd-Part/blob/main/Netflix_Single_Title.png
 This dashboard provides detailed title-level analysis, including release year, category, cast, director, and country availability.
 
 # Vehicle Sales Analysis Dashboard
@@ -93,12 +93,11 @@ This dashboard provides detailed title-level analysis, including release year, c
 ## Dashboard Screenshots
 
 ### Vehicle Sales Dashboard – Page 1
-
+https://github.com/mafu181/Power-BI-Projects-2nd-Part/blob/main/Sales_Page_1.png
 This dashboard analyzes profitability trends, regional sales performance, order metrics, and sales comparisons between the USA and global markets.
 
 ### Vehicle Sales Dashboard – Page 2
-
-
+https://github.com/mafu181/Power-BI-Projects-2nd-Part/blob/main/Sales_Page_2.png
 This dashboard visualizes customer profitability, product line performance, and monthly/yearly sales KPIs for business reporting.
 
 # Tools & Technologies
